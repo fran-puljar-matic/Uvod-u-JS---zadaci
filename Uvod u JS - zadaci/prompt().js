@@ -1,0 +1,1 @@
+prompt("Unesite Vašu najdražu marku automobila", "BMW");
